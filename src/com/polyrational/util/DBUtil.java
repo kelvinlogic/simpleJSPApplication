@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
-public class DBUtil {
+public class  DBUtil {
 
     private static Connection connection = null;
 
